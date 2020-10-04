@@ -1,0 +1,20 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file": "/Users/hackintosh/Desktop/OpenCV-android-sdk/sdk/native/jni/OpenCV.mk",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/Users/hackintosh/Desktop/EdgeDetectionCV/app/.cxx/ndkBuild/debug/x86_64/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/hackintosh/Desktop/OpenCV-android-sdk/sdk/native/jni/OpenCV.mk",
+    "tag": "debug|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/hackintosh/Desktop/OpenCV-android-sdk/sdk/native/jni/OpenCV.mk",
+    "tag": "debug|x86_64"
+  }
+]

@@ -1,0 +1,3 @@
+rootProject.name='EdgeDetectionCV'
+include ':app'
+include ':openCV'
